@@ -7,6 +7,8 @@ OpenWRT 的最佳路由器应包括 700 MHz 的多核**CPU**来处理流量和�
 
 请注意，**并非所有路由器都兼容 OpenWRT**，因此您需要仔细查看产品规格。
 
+## 如果不像折腾可以直接跳过下文到jd选个靠谱的已刷openwrt商家搞个路由器：[获取openwrt路由器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQYJK1olXQ4LVFZUCkwUA18PHl0dXgIAU11cCXtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSllYDkMUB20PGFoUQl9HCANtfwlwSHVuWyh2X1JlDwNcWkITQhFta1cZbQcyVF9cC0oTAGgLE2slXQEyFTBdCUgfBmkNEmsUbQYEV1daC0IXAWgAG10lWgYLZAQFSglLWW0MG18lbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmsAHV0QWgEeVFxeAEsVH28OGFISXgAKVVhfC00nAW4JH1IlbTZkVAgAbg5BZxJzQwheKX9kLyZfci5KXWhmGSt3BX16Ml4bdRJIcxV6QAFObQMy)
+
 ## 编辑的选择
 Turris Omnia 是我们 OpenWRT 最佳路由器的首选，因为它配备了强大的硬件，可以处理千兆位流量，您可以将其用作家庭服务器、打印服务器或 NAS。它还具有一个内置虚拟服务器，可以运行任何 Linux 发行版，甚至是 Debian 或 Ubuntu，而不会给主系统带来风险。 WiFi 6 技术可确保您的设备拥有更好的性能和更快的速度。
 
